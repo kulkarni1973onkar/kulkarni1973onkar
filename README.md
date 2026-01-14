@@ -2,7 +2,7 @@
 Hi, I’m Onkar 👋<br><br>I’m a full-stack developer (4+ years) building React/Angular UIs and Java Spring Boot / Node.js backend services, focused on secure (JWT/RBAC), scalable (microservices), and cloud-ready (AWS/Azure) applications.<br><br>I enjoy turning requirements into clean, maintainable systems: API design (REST), SQL-backed data workflows, performance tuning, and production debugging. I work comfortably across the SDLC—planning, implementation, code reviews, and shipping.<br><br>Tech I work with:<br><br>Frontend: React, Angular, JavaScript, HTML5, CSS3, responsive UI<br><br>Backend: Java, Spring Boot, Node.js, REST APIs, microservices<br><br>Data: SQL, schema design, query optimization<br><br>Cloud/DevOps: AWS, Azure, Docker, CI/CD, serverless functions<br><br>Security: JWT authentication, RBAC, API security best practices  
 
 📍 Location: New York NY<br>
-🎓 Education: M.S. in Computer Science (State University of New York)v
+🎓 Education: M.S. in Computer Science (State University of New York)<br>
 💼 Open to work: Actively seeking full-time opportunities in Software Development.<br>
 
 
