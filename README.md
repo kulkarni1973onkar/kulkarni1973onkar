@@ -9,6 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onkar1973/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kulkarnionkar1911@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kulkarni1973onkar)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white)](https://myportfolio-swart-zeta-62.vercel.app/)
 
 ---
 
@@ -27,7 +28,7 @@
 ## 🚀 Featured Projects
 
 ### [MedLedger](https://github.com/kulkarni1973onkar/MedLedger) — AI-Powered Healthcare Platform
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://medledger-ai-c2z1.vercel.app/)
 [![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kulkarni1973onkar/MedLedger)
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -42,7 +43,7 @@
 - Multi-model LLM orchestration with retrieval-augmented context for grounded, source-backed answers
 
 ### [Custom Form Builder](https://github.com/kulkarni1973onkar/form-builder) — Real-time Forms with Live Analytics
-[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://custom-form-builder-with-live-analy-two.vercel.app/)
 [![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kulkarni1973onkar/form-builder)
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
