@@ -1,5 +1,68 @@
 # 💫 About Me:
-Hi, I’m Onkar 👋<br><br>I’m a full-stack developer (4+ years) building React/Angular UIs and Java Spring Boot / Node.js backend services, focused on secure (JWT/RBAC), scalable (microservices), and cloud-ready (AWS/Azure) applications.<br><br>I enjoy turning requirements into clean, maintainable systems: API design (REST), SQL-backed data workflows, performance tuning, and production debugging. I work comfortably across the SDLC—planning, implementation, code reviews, and shipping.<br><br>Tech I work with:<br><br>Frontend: React, Angular, JavaScript, HTML5, CSS3, responsive UI<br><br>Backend: Java, Spring Boot, Node.js, REST APIs, microservices<br><br>Data: SQL, schema design, query optimization<br><br>Cloud/DevOps: AWS, Azure, Docker, CI/CD, serverless functions<br><br>Security: JWT authentication, RBAC, API security best practices<br><br>
+# Hi, I'm Onkar 👋
+
+**Full-stack engineer (4+ years)** building production systems across the **application, data, and infrastructure layers** — React/Angular front-ends backed by Java Spring Boot and Node.js services, deployed on AWS and Azure with Docker and CI/CD pipelines.
+
+I focus on the parts that make systems real: clean REST API design, SQL schema and query optimization for data-heavy workloads, JWT/RBAC security, and microservice architectures that hold up under load. Comfortable across the full SDLC — scoping, implementation, code review, debugging in production, and shipping.
+
+I work at the intersection of **backend systems and AI** — building the data plumbing, APIs, and infrastructure that AI features actually depend on.
+
+---
+
+## 🛠️ Tech Stack
+
+### Application
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### AI & LLM Integration
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+
+- **LLM APIs:** OpenAI, Anthropic
+- **Frameworks:** LangChain, prompt engineering, RAG pipelines
+- **Vector Stores:** pgvector, Pinecone
+- **Patterns:** Embeddings-based search, retrieval-augmented generation
+
+### Data
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+- SQL schema design, query optimization
+- Data workflows and API-driven pipelines
+
+### Infrastructure & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+- AWS, Azure, Docker, CI/CD pipelines, serverless functions
+
+### Security
+- JWT authentication, RBAC, API security best practices
+
+---
+
+## 📊 GitHub Stats
+
+![Onkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🔗 Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR_USERNAME)
+- 📧 your.email@example.com
+- 🌐 [Portfolio](https://yourportfolio.com)
 
 📍 Location: New York NY<br>
 🎓 Education: M.S. in Computer Science (State University of New York)<br>
