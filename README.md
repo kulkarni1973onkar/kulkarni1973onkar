@@ -29,7 +29,7 @@
 
 ### [MedLedger](https://github.com/kulkarni1973onkar/MedLedger) — AI-Powered Healthcare Platform
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://medledger-ai-c2z1.vercel.app/)
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kulkarni1973onkar/MedLedger)
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kulkarni1973onkar/Medledger-AI)
 
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -44,7 +44,7 @@
 
 ### [Custom Form Builder](https://github.com/kulkarni1973onkar/form-builder) — Real-time Forms with Live Analytics
 [![Live Demo](https://img.shields.io/badge/Live_Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://custom-form-builder-with-live-analy-two.vercel.app/)
-[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kulkarni1973onkar/form-builder)
+[![GitHub](https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kulkarni1973onkar/Custom_Form_Builder_with_Live_Analytics)
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Fiber](https://img.shields.io/badge/-Fiber-00ACD7?style=flat-square&logo=go&logoColor=white)
