@@ -1,6 +1,6 @@
 # Hi, I'm Onkar 👋
 
-**Full-stack engineer (4+ years)** building production systems across the **application, data, and infrastructure layers** — React/Angular front-ends backed by Java Spring Boot and Node.js services, deployed on AWS and Azure with Docker and CI/CD pipelines.
+**Full-stack engineer** building production systems across the **application, data, and infrastructure layers** — React/Angular front-ends backed by Java Spring Boot and Node.js services, deployed on AWS and Azure with Docker and CI/CD pipelines.
 
 I focus on the parts that make systems real: clean REST API design, SQL schema and query optimization for data-heavy workloads, JWT/RBAC security, and microservice architectures that hold up under load. Comfortable across the full SDLC — scoping, implementation, code review, debugging in production, and shipping.
 
@@ -82,7 +82,7 @@ I work at the intersection of **backend systems and AI** — building the data p
 ![Trophies](https://github-profile-trophy.vercel.app/?username=kulkarni1973onkar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repos
-![Top Contributions](https://github-contributor-stats.vercel.app/api?username=kulkarni1973onkar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![Top Contributions]([https://github-contributor-stats.vercel.app/api?username=kulkarni1973onkar&limit=5&theme=tokyonight&combine_all_yearly_contributions=true](https://github.com/kulkarni1973onkar/Custom_Form_Builder_with_Live_Analytics))
 
 ---
 
