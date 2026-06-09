@@ -162,12 +162,12 @@
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=kulkarni1973onkar&theme=tokyo-night&hide_border=true&area=true"
-    alt="Contribution Graph"
+    src="https://gh-trophy.vercel.app/?username=kulkarni1973onkar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"
+    alt="GitHub Trophies"
   />
 </p>
 
